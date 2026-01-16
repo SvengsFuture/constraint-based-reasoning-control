@@ -1,3 +1,7 @@
+Position
+
+This repository is part of a broader research program on enforcement-first AI architectures, where trust, intent, and execution are treated as runtime boundaries rather than post hoc safety or UX layers. The work focuses on how systems can refuse to act under degraded or ambiguous context through admissibility checks, bounded reasoning, and constructive termination, rather than optimizing for continuous output.
+
 # constraint-based-reasoning-control
 Research notes and placeholders for a constraint-based control architecture governing admission, termination, and bounded reasoning in AI systems
 # Constraint-Based Reasoning Control System
